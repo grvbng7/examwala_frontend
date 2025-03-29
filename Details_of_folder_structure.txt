@@ -1,0 +1,5 @@
+-- component/student ---> components available to all students (this includes free contents)
+-- component/subscriber ---> components available to subscribers only
+-- common/ ---> initially while designing I was building admin site also ,
+so components common to both were here.
+but now you can think of it as components which are generally present in all weebsites.
